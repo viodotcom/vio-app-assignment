@@ -1,6 +1,6 @@
 # FindHotel Mobile Application Engineer Assignment
 
-Thanks for applying for the Mobile Application Engineer position at FindHotel!
+Thanks for applying for the Mobile Engineer position at FindHotel!
 
 This assignment is designed to evaluate your mobile application engineering experience. The focus us on technical proficiency, design implementation and cross platform aspects. It will mimic a real life feature of our future application, a guest selector that is used for requesting hotel availability.
 
@@ -26,8 +26,8 @@ Please note for this assignment you are not required to build any server side or
 
 Please see the following screenshots for the designs to build. You can focus on the Guest and Room Selector, **building the home page is not required**.
 
-| Home screen                     | Guest and Room Overlay                                                    | Guest and Room Overlay with more rooms                                                                       |
-|---------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Home screen                     | Guest and Room Overlay                                                      | Guest and Room Overlay with more rooms                                                                         |
+| ------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | ![Home](Home.jpg "Home screen") | ![Guest and Room Overlay](GuestPicker-Default.jpg "Guest and Room Overlay") | ![Guest and Room Overlay with more rooms](GuestPicker-More-Rooms.jpg "Guest and Room Overlay with more rooms") |
 
 ### Business requirements
@@ -73,7 +73,7 @@ The application should scale and work on the following common form factors: iPho
 
 ##### Configurability
 
-The functional requirements can change in the future, do what you can to make sure the component is easiliy configurable.
+The functional requirements can change in the future, do what you can to make sure the component is easily configurable.
 
 ##### Usability
 
