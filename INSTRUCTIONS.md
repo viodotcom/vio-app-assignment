@@ -11,7 +11,7 @@ We don't assign a fixed time deadline for it, but after you’ve read the assign
 - if we evaluate it to be positive, we'll schedule a technical interview to discuss the results together
 - if we evaluate otherwise, we'll share our feedback and findings with you
 
-As said, feel free to make some concessions under time pressure. Please, [document your concessions and decisions](DOCUMENTATION.md) before sharing the assignment with us.
+As said, feel free to make some concessions under time pressure. **Please, [document your concessions and decisions](DOCUMENTATION.md) before sharing the assignment with us.**
 
 ## Technology and Frameworks
 
