@@ -1,14 +1,20 @@
 # FindHotel Mobile Engineer Assignment
 
-Thanks for applying for the Mobile Engineer position at FindHotel!
+🎉 Thanks for applying for the Mobile Engineer position at FindHotel
 
-You can find the instructions [here](INSTRUCTIONS.md)
+🚀 Below there are the [instructions](#the-sample-project) to quickly start the React Native and Expo we bootstrapped for you.
+
+📝 The instructions, requirements and evaluation criteria are available [here](INSTRUCTIONS.md). Do read it carefully before starting.
+
+✍️ Document your decisions and concessions [here](DOCUMENTATION.md).
 
 ## The sample project
 
-This project was bootstrapped using Expo.
+This project was bootstrapped using Expo. In the project directory, you can run:
 
-In the project directory, you can run:
+### `npm install`
+
+To have all the dependencies installed.
 
 ### `npm start`
 
@@ -21,7 +27,3 @@ Runs the Android app in the development mode.
 ### `npm ios`
 
 Runs the iOS app in the development mode.
-
-## Documentation
-
-> here you can document your decisions. ✍️

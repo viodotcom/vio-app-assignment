@@ -6,7 +6,12 @@ This assignment is designed to evaluate your mobile application engineering expe
 
 ## Time to spend on the assignment
 
-We don't assign a fixed time deadline for it, but after you’ve read the assignment, please let us know when you’re planning to complete it. After you complete the assignment we'll review it internally and if we evaluate it to be positive, we'll schedule a technical interview to discuss the results together. As said, feel free to make some concessions under time pressure, just let us know what parts you've focused on most.
+We don't assign a fixed time deadline for it, but after you’ve read the assignment, please let us know when you’re planning to complete it. After you complete the assignment we'll review it internally.
+
+- if we evaluate it to be positive, we'll schedule a technical interview to discuss the results together
+- if we evaluate otherwise, we'll share our feedback and findings with you
+
+As said, feel free to make some concessions under time pressure. Please, [document your concessions and decisions](DOCUMENTATION.md) before sharing the assignment with us.
 
 ## Technology and Frameworks
 
@@ -55,21 +60,21 @@ Note: Keep in mind this is the serialized representation of a valid component st
 
 These are the requirements the component need to abide to be deemed functional.
 
-- Up to eight rooms can be added
-- Each room has at least one adult and up to a maximum of five
-- Each room has zero or more children up to a maximum of three
-- Each child needs to have their age supplied, so we know what kind of bed or cot to provide and what to charge for the room
-- Each room has a maximum occupancy of five. This is, adults plus children per room
-- The Guest and Room selector should always yield a valid room occupancy, use button disablement to avoid invalid configurations
-- A user can either choose `Search` to commit the output, or click the `x` on top to reset the chosen room selection, revert back to the original state and emit this in the onChange handler
-- It is important that the state of the application can be deep-linked after a user clicked `Search`
+- [ ] Up to eight rooms can be added
+- [ ] Each room has at least one adult and up to a maximum of five
+- [ ] Each room has zero or more children up to a maximum of three
+- [ ] Each child needs to have their age supplied, so we know what kind of bed or cot to provide and what to charge for the room
+- [ ] Each room has a maximum occupancy of five. This is, adults plus children per room
+- [ ] The Guest and Room selector should always yield a valid room occupancy, use button disablement to avoid invalid configurations
+- [ ] A user can either choose `Search` to commit the output, or click the `x` on top to reset the chosen room selection, revert back to the original state and emit this in the onChange handler
+- [ ] It is important that the state of the application can be deep-linked after a user clicked `Search`
 
 #### Non-functional requirements
 
 ##### Device compatibility
 
 We expect the application to work on both iOS & Android with support for the latest versions.
-The application should scale and work on the following common form factors: iPhone 12+ and Android Pixel 5+.
+The application should scale and work on: iPhone 13 (Pro and Mini) and Android Pixel 5+.
 
 ##### Configurability
 
@@ -107,4 +112,4 @@ We will evaluate the assignment according to the following aspects:
 - Exercise the component interactively with an appropriate test library
 - Use git best practices, commit messages and such
 
-Good luck! If you have any questions around the assignment, feel free to reach out :)
+🍀 Good luck! If you have any questions around the assignment, feel free to reach out :)
