@@ -6,7 +6,7 @@
 
 📝 The instructions, requirements and evaluation criteria are available [here](INSTRUCTIONS.md). Do read it carefully before starting.
 
-✍️ Document your decisions and concessions [here](DOCUMENTATION.md).
+✍️ **Document your decisions and concessions [here](DOCUMENTATION.md)**.
 
 ## The sample project
 
