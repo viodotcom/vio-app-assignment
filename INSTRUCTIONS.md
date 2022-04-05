@@ -8,7 +8,7 @@ This assignment is designed to evaluate your mobile engineering skills. The focu
 
 When searching for an accommodation, FindHotel customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
 
-Check the following screenshots for the designs to build. You can focus on the Guest and Room Selector, **building the home page is not required**.
+Check the following screenshots for the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
 
 | Home screen                     | Guest and Room Overlay                                                      | Guest and Room Overlay with more rooms                                                                         |
 | ------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ As said, feel free to make some concessions under time pressure. **Please, [docu
 
 #### Input and output
 
-The component should receive its initial state as a string that is deep-linkable, allow the user to update the state via manipulating the UI, and emit its output as a serialized string to be shared with others. You should be able to pass the Guests and Rooms configuration in via the URI in this encoded manner. The component should have an onChange property that is called with the serialized string when the component state is "comitted" (via the Search button) to allow for sharing.
+The component should receive its initial state as a string that is deep-linkable, allow the user to update the state via manipulating the UI, and emit its output as a serialized string to be shared with others. You should be able to pass the Guests and Rooms configuration in via the URI in this encoded manner. The component should have an `onChange` property that is called with the serialized string when the component state is "comitted" (via the Search button) to allow for sharing.
 
 The rules for the output format are the following:
 
@@ -37,7 +37,7 @@ The rules for the output format are the following:
 
 ##### Examples
 
-- `1:4,6|3` → Two rooms, one with one adult and two children ages four and six and the other with three adults and no children
+- `1:4,6|3` → Two rooms: one room with one adult and two children ages four and six; and the other room with three adults and no children
 - `3` → One room with three adults and no children
 - `2:4` → One room with two adults and one child aged four
 - `1:0,13,16` → One room with one adult and three children (aged zero, thirteen and sixteen)
@@ -59,12 +59,12 @@ These are the requirements the component need to abide to be deemed functional.
 
 #### Non-functional requirements
 
-- [ ] Device compatibility: we expect the application to work on both iOS & Android with support for the latest versions. The application should scale and work on: iPhone 13 (Pro and Mini) and Android Pixel 5+.
-- [ ] Configurability: the functional requirements can change in the future, do what you can to make sure the component is easily configurable.
-- [ ] Usability: should be evident to the user how to use the guest and room selector. We are here to help the user to understand what are their options and guide them.
-- [ ] Testability: we recommend to write automated tests (unit or integration) to verify and document the business logic. We leave to you to decide and [document](DOCUMENTATION.md) which parts of the implementation should be covered by tests, given the constraint of time.
-- [ ] State management and scalability: use any state management mechanism you’d like, keeping in mind how you would scale the architecture of the application as it grows.
-- [ ] Deep-linking and navigation: even though the home view doesn't need to be implemented in detail, please showcase how you would handle navigation and deep-linking in your application.
+- [ ] **Device compatibility:** we expect the application to work on both iOS & Android with support for the latest versions. The application should scale and work on: iPhone 13 (Pro and Mini) and Android Pixel 5+.
+- [ ] **Configurability:** the functional requirements can change in the future, do what you can to make sure the component is easily configurable.
+- [ ] **Usability:** should be evident to the user how to use the guest and room selector. We are here to help the user to understand what are their options and guide them.
+- [ ] **Testability:** we recommend to write automated tests (unit or integration) to verify and document the business logic. We leave to you to decide and [document](DOCUMENTATION.md) which parts of the implementation should be covered by tests, given the constraint of time.
+- [ ] **State management and scalability:** use any state management mechanism you’d like, keeping in mind how you would scale the architecture of the application as it grows.
+- [ ] **Deep-linking and navigation:** even though the home view doesn't need to be implemented in detail, please showcase how you would handle navigation and deep-linking in your application.
 
 ### Technology and Frameworks
 
