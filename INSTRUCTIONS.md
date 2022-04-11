@@ -95,7 +95,7 @@ We will evaluate the assignment according to the following aspects:
 
 ### Not required
 
-- Server side or API: for this assignment you are not required to build any server side or API logic, you can build all logic in the application.
+- Server side or API: for this assignment you are not required to build any server side or API logic, you can build all logic in the client application.
 
 ---
 
