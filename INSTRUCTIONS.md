@@ -37,7 +37,7 @@ The rules for the output format are the following:
 
 ##### Examples
 
-- `1:4,6|3` → Two rooms: one room with one adult and two children ages four and six; and the other room with three adults and no children
+- `1:4,6|3` → Two rooms: one room with one adult and two children aged four and six; and the other room with three adults and no children
 - `3` → One room with three adults and no children
 - `2:4` → One room with two adults and one child aged four
 - `1:0,13,16` → One room with one adult and three children (aged zero, thirteen and sixteen)
