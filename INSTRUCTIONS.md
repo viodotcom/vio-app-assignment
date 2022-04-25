@@ -6,7 +6,7 @@ This assignment is designed to evaluate your mobile engineering skills. The focu
 
 ## The assignment: Guest and Room Selector component
 
-When searching for an accommodation, FindHotel customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
+When searching for accommodation, FindHotel customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
 
 Check the following screenshots for the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
 
@@ -21,7 +21,7 @@ As said, feel free to make some concessions under time pressure. **Please, [docu
 
 ### Next steps 🔜
 
-After receiving your solution to the assignment, we are going to perform a code review. You should receive our communication in a few days after delivering it.
+After receiving your solution, we'll perform a code review. You should receive communication in a few days after submitting the assignment.
 
 - if we evaluate your assignment positively, we'll schedule a technical interview to discuss the results together
 - if we evaluate otherwise, we'll share our feedback and findings with you
@@ -62,18 +62,18 @@ These are the requirements the component need to abide to be deemed functional.
 
 #### Non-functional requirements
 
-- [ ] **Device compatibility:** we expect the application to work on both iOS & Android with support for the latest versions. The application should scale and work on: iPhone 13 (Pro and Mini) and Android Pixel 5+.
+- [ ] **Device compatibility:** we expect the application to work on both iOS & Android devices with support for the latest versions. The application should scale and work on: iPhone 13 (Pro and Mini) and Android Pixel 5+.
 - [ ] **Configurability:** the functional requirements can change in the future, do what you can to make sure the component is easily configurable.
-- [ ] **Usability:** should be evident to the user how to use the guest and room selector. We are here to help the user to understand what are their options and guide them.
-- [ ] **Testability:** we recommend to write automated tests (unit or integration) to verify and document the business logic. We leave to you to decide and [document](DOCUMENTATION.md) which parts of the implementation should be covered by tests, given the constraint of time.
+- [ ] **Usability:** should be evident to the user how to use the guest and room selector. We are here to help the user understand what their options are and guide them.
+- [ ] **Testability:** we recommend writing automated tests (unit or integration) to verify and document the business logic. We leave it up to you to decide and [document](DOCUMENTATION.md) which parts of the implementation should be covered by tests, given the constraint of time.
 - [ ] **State management and scalability:** use any state management mechanism you’d like, keeping in mind how you would scale the architecture of the application as it grows.
 - [ ] **Deep-linking and navigation:** even though the home view doesn't need to be implemented in detail, please showcase how you would handle navigation and deep-linking in your application.
 
 ### Technology and Frameworks
 
-The list below is based on what we are currently using at FindHotel. If you have other technology or frameworks in mind, you’re free to use it.
+The list below is based on what we are currently using at FindHotel. If you have any other technologies or frameworks in mind, feel free to use them.
 
-We kindly ask you to [document](DOCUMENTATION.md) your decisions and guide us through how to easily debug and run the application in iOS and Android simulators.
+We kindly ask you to [document](DOCUMENTATION.md) your decisions and guide us through how to debug and run the application easily in iOS and Android simulators.
 
 - React Native (optional)
 - Expo (optional)
@@ -85,10 +85,10 @@ We kindly ask you to [document](DOCUMENTATION.md) your decisions and guide us th
 
 We will evaluate the assignment according to the following aspects:
 
-- Correctness, bug free implementation according to the requirements
-- Code quality, how clean, readable, organized and future proof your code is
-- Visual implementation, how close your component implementation is to the supplied designs
-- Quality assurance, how much confidence your automated tests add to the implementation
+- **Correctness:** bug free implementation according to the requirements
+- **Code quality:** how clean, readable, organized and future proof your code is
+- **Visual implementation:** how close your component implementation is to the supplied designs
+- **Quality assurance:** how much confidence your automated tests add to the implementation
 
 ### Bonus points
 
