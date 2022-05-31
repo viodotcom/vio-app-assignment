@@ -6,7 +6,7 @@ This assignment is designed to evaluate your mobile engineering skills. The focu
 
 ## The assignment: Guest and Room Selector component
 
-When searching for accommodation, FindHotel customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
+When searching for accommodations, FindHotel customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
 
 Check the following screenshots for the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
 
