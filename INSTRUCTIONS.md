@@ -8,11 +8,11 @@ This assignment is designed to evaluate your mobile engineering skills. The focu
 
 When searching for accommodations, FindHotel customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
 
-Check the following screenshots for the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
+You can make a copy of the [designs](https://www.figma.com/community/file/1134411083039491229) on Figma. Check the following screenshots to get a glimpse of the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
 
 | Home screen                     | Guest and Room Overlay                                                      | Guest and Room Overlay with more rooms                                                                         |
 | ------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| ![Home](Home.jpg "Home screen") | ![Guest and Room Overlay](GuestPicker-Default.jpg "Guest and Room Overlay") | ![Guest and Room Overlay with more rooms](GuestPicker-More-Rooms.jpg "Guest and Room Overlay with more rooms") |
+| ![Home](Home.png 'Home screen') | ![Guest and Room Overlay](GuestPicker-Default.png 'Guest and Room Overlay') | ![Guest and Room Overlay with more rooms](GuestPicker-More-Rooms.png 'Guest and Room Overlay with more rooms') |
 
 ### Time to spend on the assignment ⏳
 
@@ -75,8 +75,7 @@ The list below is based on what we are currently using at FindHotel. If you have
 
 We kindly ask you to [document](DOCUMENTATION.md) your decisions and guide us through how to debug and run the application easily in iOS and Android simulators.
 
-- React Native (optional)
-- Expo (optional)
+- React Native
 - Redux (optional)
 - TypeScript (optional)
 - [Emotion](https://github.com/emotion-js/emotion) (optional)
