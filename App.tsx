@@ -1,20 +1,36 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import {StyleSheet, Text, View} from 'react-native';
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Welcome to the FindHotel mobile app coding assignment!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+const App = () => (
+  <View style={styles.sectionContainer}>
+    <Text style={styles.title}>Welcome!</Text>
+    <Text style={styles.description}>
+      This is the repository for the <Text style={styles.highlight}>FindHotel</Text>{' '}
+      mobile app assignment!
+    </Text>
+  </View>
+);
 
 const styles = StyleSheet.create({
-  container: {
+  title: {
+    fontSize: 24,
+    fontWeight: '600',
+  },
+  description: {
+    marginTop: 8,
+    fontSize: 18,
+    fontWeight: '400',
+  },
+  highlight: {
+    fontWeight: '700',
+  },
+  sectionContainer: {
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    paddingHorizontal: 24,
   },
 });
+
+export default App;
