@@ -14,7 +14,7 @@ This project was bootstrapped using [React Native TypeScript template](https://r
 
 ### `npm install`
 
-To have all the dependencies installed.
+Installs all the dependencies.
 
 ### `npm start`
 
