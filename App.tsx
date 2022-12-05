@@ -5,7 +5,7 @@ const App = () => (
   <View style={styles.sectionContainer}>
     <Text style={styles.title}>Welcome!</Text>
     <Text style={styles.description}>
-      This is the repository for the <Text style={styles.highlight}>FindHotel</Text>{' '}
+      This is the repository for the <Text style={styles.highlight}>Vio.com</Text>{' '}
       mobile app assignment!
     </Text>
   </View>

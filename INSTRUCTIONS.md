@@ -1,12 +1,12 @@
-# FindHotel Mobile Application Engineer Assignment
+# Vio.com Mobile Application Engineer Assignment
 
-Thanks for applying for the Mobile Engineer position at FindHotel 🎉
+Thanks for applying for the Mobile Engineer position at Vio.com 🎉
 
 This assignment is designed to evaluate your mobile engineering skills. The focus is on technical proficiency, design implementation and cross platform aspects. It will mimic a real life feature of our future application, a Guest and Room selector.
 
 ## The assignment: Guest and Room Selector component
 
-When searching for accommodations, FindHotel customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
+When searching for accommodations, Vio.com customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
 
 You can make a copy of the [designs](https://www.figma.com/community/file/1134411083039491229) on Figma. Check the following screenshots to get a glimpse of the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
 
@@ -71,7 +71,7 @@ These are the requirements the component need to abide to be deemed functional.
 
 ### Technology and Frameworks
 
-The list below is based on what we are currently using at FindHotel. If you have any other technologies or frameworks in mind, feel free to use them.
+The list below is based on what we are currently using at Vio.com. If you have any other technologies or frameworks in mind, feel free to use them.
 
 We kindly ask you to [document](DOCUMENTATION.md) your decisions and guide us through how to debug and run the application easily in iOS and Android simulators.
 
