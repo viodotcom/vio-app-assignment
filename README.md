@@ -1,6 +1,6 @@
-# FindHotel Mobile Engineer Assignment
+# Vio.com Mobile Engineer Assignment
 
-🎉 Thanks for applying for the Mobile Engineer position at FindHotel.
+🎉 Thanks for applying for the Mobile Engineer position at Vio.com.
 
 🚀 Below you will find [how to run](#how-to-run) the React Native App we've bootstrapped for you.
 
