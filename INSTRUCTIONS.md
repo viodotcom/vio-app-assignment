@@ -8,7 +8,7 @@ This assignment is designed to evaluate your mobile engineering skills. The focu
 
 When searching for accommodations, Vio.com customers are required to provide the number of guests and rooms for that particular stay. We use the provided information to search for available hotels based on the user's input.
 
-You can make a copy of the [designs](https://www.figma.com/community/file/1134411083039491229) on Figma. Check the following screenshots to get a glimpse of the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
+You can make a copy of the [designs](https://www.figma.com/community/file/1279439444885116231/Vio.com---Guest-Picker-Assessment-(Community)) on Figma. Check the following screenshots to get a glimpse of the designs to build. You can focus on the Guest and Room Selector, **building the home screen is not required**.
 
 | Home screen                     | Guest and Room Overlay                                                      | Guest and Room Overlay with more rooms                                                                         |
 | ------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
