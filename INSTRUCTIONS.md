@@ -62,7 +62,7 @@ These are the requirements the component need to abide to be deemed functional.
 
 #### Non-functional requirements
 
-- [ ] **Device compatibility:** we expect the application to work on both iOS & Android devices with support for the latest versions. The application should scale and work on: iPhone 13 (Pro and Mini) and Android Pixel 5+.
+- [ ] **Device compatibility:** we expect the application to work on both iOS & Android devices with support for the latest versions. The application should scale and work on: iPhone 13+ and Android Pixel 7+.
 - [ ] **Configurability:** the functional requirements can change in the future, do what you can to make sure the component is easily configurable.
 - [ ] **Usability:** should be evident to the user how to use the guest and room selector. We are here to help the user understand what their options are and guide them.
 - [ ] **Testability:** we recommend writing automated tests (unit or integration) to verify and document the business logic. We leave it up to you to decide and [document](DOCUMENTATION.md) which parts of the implementation should be covered by tests, given the constraint of time.
